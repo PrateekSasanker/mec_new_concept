@@ -4973,6 +4973,7 @@ video {
 }
 .footer.footer-black h4 {
   color: #FFFFFF;
+  padding-bottom: 20px;
 }
 .footer .links {
   display: inline-block;
@@ -10477,9 +10478,9 @@ body {
   float: right;
 }
 
-.about-us .container {
+/*.about-us .container {
   max-width: 970px;
-}
+}*/
 .about-us .header-wrapper {
   height: 550px;
 }
